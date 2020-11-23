@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo UwU, world!
+- script: UwU, Azure Pipeling testing!
   displayName: 'Run a one-line script'
 
 - script: |
